@@ -1,2 +1,55 @@
-# DL-2026-Lab
-Code Lab for the Deep Learning course in spring 2026
+![Course Banner](banner.png)
+
+Welcome Spring Semester 2026 students to our course **Deep Learning**, taught by **Prof. Dr. Damian Borth**.
+
+Lectures and hands-on lab courses alternate to provide a better learning experience in this course. The materials for Deep Learning labs are available and accessible through this repository.
+
+The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org) and [PyTorch](https://pytorch.org). This repository is supported by the course TAs [Léo Meynent](https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/173633b6-35ef-40d5-9354-075a3dc86c7b/) and [Damian Falk](https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/6dfc8f20-29c4-4609-9bc3-2e47e386b7b1/).
+
+
+
+Happy Coding!
+
+## Course Logistics
+
+- **Lectures:** Mondays 2:15-3:45PM CET
+- **Labs:** Mondays 4:15-5:45PM CET
+
+- **Announcements:** All course-related announcements and questions will happen on Canvas.
+
+## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
+This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers.
+
+
+| Date                    | Lab        |  Content                         |  CoLab                 | 
+|:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|
+| 09.03.2026            | **Lab 1**   | Meta Learning          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL-2026-Lab/blob/main/lab_1/meta-learning_lab.ipynb)
+<!-- | 15.10.2025            | **Lab 2**   | Continual Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2025-Lab/blob/main/lab_2/continual_learning_lab.ipynb)
+| 22.10.2025            | **Lab 3**   | Hyper Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2025-Lab/blob/main/lab_3/hypernetworks_lab.ipynb) -->
+
+## How To Run the Course Code Lab Notebooks
+
+#### Option 1: Google Colab Environment
+
+Similar to binder, you just have to click the Colab badge next to the Notebooks below. All you need is a Google login
+(e.g., your login information for gmail) and you can use this service at no charge.
+Two advantages of Colab are that (1) you can save your
+Notebooks directly into your Google Drive and read data from there, and (2) Google provides you with some limited GPU capabilities
+free of charge (this will be an interesting feature for the coding challenge.)
+
+#### Option 2: Local Python Installation
+
+If you prefer to run Notebooks locally on your computer, you will need to install Python. If you choose to do so,
+we recommend to install [Anaconda Python](https://www.anaconda.com/products/individual), a package that combines the
+latest version of Python with the most common supplemental modules for data science and machine learning, as well
+as a Jupyter Notebook server that runs on your computer locally. Anaconda
+[installers](https://www.anaconda.com/products/individual#Downloads) are available
+for the most common operating systems, as well as some
+[detailed installation guides](https://docs.anaconda.com/anaconda/install/).
+
+If you need help running Python and/or Jupyter Notebooks, please don't hesitate to contact us (see below)!
+
+## Questions?
+
+- For course related questions use Canvas. For external enquiries, emergencies, or personal matters that you don't wish to put in a forum post, you can email us via: [aiml-teaching.ics@unisg.ch](mailto:aiml-teaching.ics@unisg.ch?subject=DL2026%20|%20place%20your%20subject%20here"). Please make sure that the subject of your email is appropriately prefixed with the course's name `DL2026`.
