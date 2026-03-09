@@ -1,4 +1,4 @@
-![Course Banner](banner.png)
+![Course Banner](assets/banner.png)
 
 Welcome Spring Semester 2026 students to our course **Deep Learning**, taught by **Prof. Dr. Damian Borth**.
 
